@@ -1,0 +1,26 @@
+{
+  "name": "mongo_node",
+  "version": "1.0.0",
+  "description": "This is the adaptor for nodejs app to mongoDB.",
+  "main": "start.js",
+  "scripts": {
+    "test": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thousifa1/nodejs-dev.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "mongoDB"
+  ],
+  "author": "Thousif Ameer Khan P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thousifa1/nodejs-dev/issues"
+  },
+  "homepage": "https://github.com/thousifa1/nodejs-dev#readme",
+  "devDependencies": {
+    "mongodb": "^3.1.10"
+  }
+}
